@@ -1,5 +1,7 @@
-function showAlert(){ 
-document.getElementById("status") 
-.innerHTML = 
-"Satellite data connected successfully"; 
+function showAlert(){
+
+document.getElementById("status")
+.innerHTML =
+"Disaster monitoring active";
+
 }
